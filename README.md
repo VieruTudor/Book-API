@@ -1,7 +1,7 @@
 # Book-API
 Books management system
 
-Web API designed for managing a book repisitory, having features like :
+ASP.NET Core Web API designed for managing a book repisitory, having features like :
 * Login and Authorization with JWT Tokens
 * Fetch all / Fetch one by id
 * Adding a new book
